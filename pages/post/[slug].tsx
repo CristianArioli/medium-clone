@@ -123,7 +123,7 @@ function Post({ post }: Props) {
             <input
               {...register('name', { required: true })}
               className="form-input mt-1 block w-full rounded border py-2 px-3 shadow outline-none ring-yellow-500 focus:ring"
-              placeholder="John Appleseed"
+              placeholder="Nome"
               type="text"
             />
           </label>
@@ -132,7 +132,7 @@ function Post({ post }: Props) {
             <input
               {...register('email', { required: true })}
               className="form-input mt-1 block w-full rounded border py-2 px-3 shadow outline-none ring-yellow-500 focus:ring"
-              placeholder="John Appleseed"
+              placeholder="Email"
               type="text"
             />
           </label>
@@ -141,7 +141,7 @@ function Post({ post }: Props) {
             <textarea
               {...register('comment', { required: true })}
               className="form-textarea mt-1 block w-full rounded border py-2 px-3 shadow outline-none ring-yellow-500 focus:ring"
-              placeholder="John Appleseed"
+              placeholder="Comentário"
               rows={8}
             />
           </label>
