@@ -7,6 +7,9 @@ Os posts são criados pelo administrador que por sua vez são renderizados na te
 ### Link do projeto publicado no vercel
 https://medium-clone-pf1a3ldnt-cristianarioli.vercel.app/
 
+### Link do painel sanity publicado
+https://cristianmediumclone.sanity.studio/desk
+
 ## Como rodar o projeto
 ### Após Clonar o repositório
 Após clonar o repositório, abra o projeto e rode um yarn:
