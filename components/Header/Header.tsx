@@ -24,7 +24,7 @@ function Header() {
       <div className="flex items-center space-x-5 text-green-600">
         <h3>Entrar</h3>
         <h3 className="rounded-full border border-green-600 px-4 py-1">
-          Get Started
+          Comece
         </h3>
       </div>
     </header>
