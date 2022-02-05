@@ -1,4 +1,4 @@
-# Projeto medium-Clone
+# Projeto Medium-Clone
 O objetivo do projeto foi criar uma aplicação clone do site Medium, para servir como blog utlizando React, Next.Js, Typescript, Tailwind CSS para estilização, e Sanity CMS como sistema de gerencia de conteúdo.
 
 ## Funcionamento
